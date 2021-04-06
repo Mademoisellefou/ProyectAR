@@ -46,7 +46,6 @@ public class FUNCTIONGLIP : MonoBehaviour
     IEnumerator CaptureIt()
     {
 
-
         string timeStamp = System.DateTime.Now.ToString("dd-MM-yyyy-HH-mm-ss");
         string fileName = "Screenshot" + timeStamp + ".png";
         string pathToSave = fileName;
