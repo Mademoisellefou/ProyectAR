@@ -33,7 +33,7 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Image
     - UnityEngine.UI.Text
   sceneClasses:
-    Assets/Scenes/EasyAR.unity:
+    Assets/Scenes/Principal.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -711,5 +711,5 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   platform: 13
   scenePathNames:
-  - Assets/Scenes/EasyAR.unity
-  playerPath: E:/apkunity/glip.apk
+  - Assets/Scenes/Principal.unity
+  playerPath: E:/apkunity/dev4.apk
